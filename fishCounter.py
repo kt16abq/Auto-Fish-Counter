@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#Dec 30 2015 update by Alex Chen
 #Count fish number and save to SQLite database using openCV and setting from camera.set file
 from picamera.array import PiRGBArray
 from picamera import PiCamera
